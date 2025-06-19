@@ -1,6 +1,6 @@
 # Technical SEO Audit – Point 1
 
-## ✅ Overview
+## Overview
 
 As part of my application for the SEO Search Analyst position at Nestlé, I performed a full technical SEO audit of [https://www.madewithnestle.ca](https://www.madewithnestle.ca) using Screaming Frog.
 
@@ -102,7 +102,7 @@ Using Google’s Rich Results Test, I confirmed that:
 
 **Recommendation:** I recommend implementing structured data using JSON-LD for entities like `Organization`, `Product`, and `Recipe`, to increase visibility through enhanced search listings (rich results).
 
-## ✉️ About Me
+## About Me
 
 Prepared by: **Gisselle**  
 Candidate – SEO Search Analyst at Nestlé  
