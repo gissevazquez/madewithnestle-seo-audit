@@ -4,7 +4,7 @@ As part of the technical SEO audit, I examined the presence of structured data (
 
 ---
 
-## 📌 What is Structured Data?
+## What is Structured Data?
 
 Structured data is a standardized format used to annotate the content of web pages, helping search engines better understand the context and meaning of the information. Google, Bing, and other engines use structured data to enable **rich results**, such as:
 
@@ -18,7 +18,7 @@ The most commonly used vocabulary is [Schema.org](https://schema.org), and the r
 
 ---
 
-## 🔍 Pages Tested
+## Pages Tested
 
 1. **Homepage** – https://www.madewithnestle.ca/
 2. **Recipe Page** – https://www.madewithnestle.ca/recipes/original-smarties-cookies-recipe
@@ -29,7 +29,7 @@ Tests were conducted using both:
 
 ---
 
-## ❌ Audit Findings
+## Audit Findings
 
 | Page              | Structured Data Found | Rich Results Eligibility | Notes                                       |
 |-------------------|------------------------|--------------------------|---------------------------------------------|
@@ -40,7 +40,7 @@ Tests were conducted using both:
 
 ---
 
-## 🛠 Recommendations
+## Recommendations
 
 ### 1. Add Organization Schema to Homepage
 ```json
