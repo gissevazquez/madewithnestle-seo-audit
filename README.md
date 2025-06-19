@@ -23,6 +23,11 @@ All audit reports are located inside the `/audit` folder and follow this structu
 
 Go to the [`/audit`](./audit) folder to view each individual Markdown analysis file.
 
+
+## 📎 Live Demo
+
+You can view the live SEO Audit implementation in Drupal CMS here:  
+👉 [SEO Audit Index (Drupal)](https://drupal-cms.org/omalhfrz1dl1/seo-audit-index)
 ---
 
 ## 👩🏻‍💻 Author
